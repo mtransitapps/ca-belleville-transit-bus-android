@@ -1,0 +1,10 @@
+1,'1','Terminal <> Quinte Mall','0072BC',49,3
+2,'2','Quinte Mall <> Terminal','ED1D24',50,3
+3,'3','Terminal <> Loyalist','C6168D',51,3
+4,'4','Loyalist <> Terminal','16BECF',52,3
+6,'6','Quinte Mall <> Terminal','FDB913',54,3
+7,'7','Walmart <> Terminal','00A651',55,3
+8,'8','Terminal','AE9872',56,3
+10005,'5A','Terminal','000000',1708,3
+20005,'5B','Terminal','000000',1709,3
+140000,'N','Loyalist*','000000',78,3

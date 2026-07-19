@@ -2,8 +2,109 @@
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
     "default_route_long_name_enabled": true,
+    "direction_splitter_enabled": true,
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
+    "stop_id_previous_char_configs": [
+        {
+            "char": "AVD",
+            "id_part": 12204000
+        },
+        {
+            "char": "BTT",
+            "id_part": 22020000
+        },
+        {
+            "char": "CE",
+            "id_part": 305000
+        },
+        {
+            "char": "LQM",
+            "id_part": 121713000
+        },
+        {
+            "char":"LY",
+            "id_part": 1225000
+        },
+        {
+            "char": "MNF",
+            "id_part": 131406000
+        },
+        {
+            "char": "NP",
+            "id_part": 1416000
+        },
+        {
+            "char": "PD",
+            "id_part": 1604000
+        },
+        {
+            "char": "PH",
+            "id_part": 1608000
+        },
+        {
+            "char": "PM",
+            "id_part": 1613000
+        },
+        {
+            "char": "QMP",
+            "id_part": 171316000
+        }
+    ],
+    "stop_id_not_supported_configs": [
+        {
+            "original_stop_id": "5A100",
+            "stop_id_int": 501100
+        },
+        {
+            "original_stop_id": "5A101",
+            "stop_id_int": 501101
+        },
+        {
+            "original_stop_id": "5A102",
+            "stop_id_int": 501102
+        },
+        {
+            "original_stop_id": "5A103",
+            "stop_id_int": 501103
+        },
+        {
+            "original_stop_id": "5A104",
+            "stop_id_int": 501104
+        },
+        {
+            "original_stop_id": "5A105",
+            "stop_id_int": 501105
+        },
+        {
+            "original_stop_id": "5B100",
+            "stop_id_int": 502100
+        },
+        {
+            "original_stop_id": "5B101",
+            "stop_id_int": 502101
+        },
+        {
+            "original_stop_id": "5B102",
+            "stop_id_int": 502102
+        },
+        {
+            "original_stop_id": "5B103",
+            "stop_id_int": 502103
+        },
+        {
+            "original_stop_id": "5B104",
+            "stop_id_int": 502104
+        },
+        {
+            "original_stop_id": "5B105",
+            "stop_id_int": 502105
+        },
+        {
+            "original_stop_id": "5B106",
+            "stop_id_int": 502106
+        }
+    ],
     "stop_name_cleaners": []
 }
