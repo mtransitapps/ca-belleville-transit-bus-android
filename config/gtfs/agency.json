@@ -5,5 +5,6 @@
     "default_color_comment": "GREEN (from website logo)",
     "default_color_enabled": true,
     "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_strings": true,
     "ignore_upper_case_words": []
 }
